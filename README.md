@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi, I'm Lucky 👋
 
-<!--
-**Luckynirwan12/Luckynirwan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science & Engineering student  
+🤖 Interested in Machine Learning, AI & Generative AI  
+💻 Building practical AI/ML applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- **Languages:** Python, C++, SQL
+- **ML:** Scikit-learn, Pandas, NumPy
+- **AI:** Generative AI, LangChain, FAISS
+- **Development:** Streamlit, Git, GitHub
+
+---
+
+### 🚀 Featured Projects
+
+#### 📄 DocBot — AI-Powered Document Assistant
+- PDF document Q&A and semantic search
+- LangChain + FAISS + HuggingFace Embeddings
+
+#### 📋 CareerLens — AI-Powered Resume Evaluator
+- AI-powered resume analysis
+- Google Gemini API + Streamlit
+
+#### 🎬 FilmFound — Movie Recommendation System
+- Content-based recommendation
+- Vectorization + Cosine Similarity
+
+---
+
+### 📊 Coding
+
+- 100+ LeetCode Problems Solved
+
+---
+
+### 📫 Connect with me
+
+- LinkedIn: [linkedin.com/in/lucky-nirwan](https://linkedin.com/in/lucky-nirwan)
+- GitHub: [github.com/Luckynirwan12](https://github.com/Luckynirwan12)
+- Instgram: https://www.instagram.com/i_lucky05/
