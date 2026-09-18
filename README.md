@@ -1,4 +1,12 @@
-## Hi, I'm Lucky 👋
+<h1 align="center">Hi, I'm Lucky 👋</h1>
+
+<p align="center">
+  Final-Year Computer Science & Engineering Student | Machine Learning & AI
+</p>
+
+---
+
+### 🧠 About Me
 
 🎓 Final-year Computer Science & Engineering student  
 🤖 Interested in Machine Learning, AI & Generative AI  
@@ -8,10 +16,13 @@
 
 ### 🛠️ Technical Skills
 
-- **Languages:** Python, C++, SQL
-- **ML:** Scikit-learn, Pandas, NumPy
-- **AI:** Generative AI, LangChain, FAISS
-- **Development:** Streamlit, Git, GitHub
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, C++, SQL |
+| **Machine Learning** | Scikit-learn, Pandas, NumPy |
+| **AI / GenAI** | Generative AI, LangChain, FAISS, HuggingFace Embeddings |
+| **Development** | Streamlit |
+| **Tools** | Git, GitHub, Jupyter Notebook, Google Colab |
 
 ---
 
@@ -31,14 +42,30 @@
 
 ---
 
-### 📊 Coding
+### 💻 Coding
 
-- 100+ LeetCode Problems Solved
+🏆 **100+ LeetCode Problems Solved**
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/lucky-nirwan](https://linkedin.com/in/lucky-nirwan)
-- GitHub: [github.com/Luckynirwan12](https://github.com/Luckynirwan12)
-- Instgram: https://www.instagram.com/i_lucky05/
+<p align="left">
+
+<a href="https://www.linkedin.com/in/lucky-nirwan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Lucky%20Nirwan-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Luckynirwan12">
+  <img src="https://img.shields.io/badge/GitHub-Luckynirwan12-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.instagram.com/i_lucky05/">
+  <img src="https://img.shields.io/badge/Instagram-i__lucky05-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
